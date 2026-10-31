@@ -1,0 +1,60 @@
+{
+  "push": {
+    "test": { "title": "Raidex Test", "body": "Push funktioniert 🎉" },
+    "raidCancelled": { "title": "Raid abgesagt", "body": "„{{title}}“ wurde abgesagt." },
+    "newUser": { "title": "Neuer Raidex-Nutzer 🎉", "body": "{{battletag}} hat sich per Battle.net angemeldet." }
+  },
+  "dashboard": {
+    "token": "WoW-Token",
+    "gold": "{{amount}} Gold",
+    "weeklyEvent": "Wochenevent: {{title}}"
+  },
+  "event": {
+    "timewalking": { "title": "Zeitwanderung", "body": "Zeitwanderungs-Dungeons einer früheren Erweiterung geben Bonus-Beute." },
+    "battleground": { "title": "Schlachtfeld-Wochenende", "body": "Erhöhte Ehre und Beute in Schlachtfeldern." },
+    "petBattle": { "title": "Haustierkämpfe", "body": "Bonus-Erfahrung für deine Kampfhaustiere." },
+    "worldQuest": { "title": "Weltquest-Bonus", "body": "Weltquests geben doppelte Belohnungen." },
+    "arena": { "title": "Arena-Scharmützel", "body": "Bonus-Ehre in Arena-Scharmützeln." },
+    "mythicDungeon": { "title": "Mythische Dungeons", "body": "Bonus-Beute in mythischen Dungeons." }
+  },
+  "card": {
+    "diff": { "mythic": "Mythisch", "heroic": "Heroisch", "normal": "Normal", "lfr": "LFR", "mplus": "Mythic+" },
+    "role": { "tank": "Tank", "healer": "Heiler", "dps": "DD" },
+    "weekdays": "Mo,Di,Mi,Do,Fr,Sa,So",
+    "dateFormat": "d.m.",
+    "time": "{{time}} Uhr",
+    "when": "{{weekday}}, {{date}} · {{time}}",
+    "summary": "Tank {{tank}} · Heiler {{healer}} · DD {{dps}}",
+    "loading": "Raid wird geladen …",
+    "toCalendar": "Zum Kalender",
+    "notFound": "Raid nicht gefunden",
+    "gone": "Dieser Raid existiert nicht mehr."
+  },
+  "discord": {
+    "date": "{{weekday}}, {{date}}",
+    "lineup": "Aufstellung",
+    "signedUp": "{{count}} angemeldet",
+    "signedUpOf": "{{have}} / {{min}} angemeldet",
+    "autoUpdate": "aktualisiert sich automatisch",
+    "cancelled": "{{name}} — abgesagt",
+    "testTitle": "Raidex verbunden",
+    "testBody": "Ab jetzt melde ich hier Änderungen an den Raid-Anmeldungen."
+  },
+  "demo": {
+    "race": { "2": "Orc", "4": "Nachtelfe", "22": "Worgen" },
+    "instance": "Manaschmiede Omega",
+    "mythicTitle": "{{instance}} – Mythisch",
+    "mythicBody": "Progress an Boss 5. Seid pünktlich, Flasks & Food mitbringen!",
+    "heroicTitle": "{{instance}} – Heroisch (Alt-Run)",
+    "heroicBody": "Entspannter Kurs für Twinks und Neulinge.",
+    "mplusTitle": "Mythic+ Abend",
+    "mplusInstance": "Dungeons",
+    "mplusBody": "Keys pushen in Gruppen. Tragt euch mit eurer Rolle ein."
+  },
+  "mail": {
+    "verify": {
+      "subject": "{{product}} – E-Mail bestätigen",
+      "body": "Willkommen bei {{product}}!\n\nBitte bestätige deine E-Mail-Adresse:\n{{link}}\n\nHinweis: Du nutzt einen Demo-Account. Für echte WoW-Daten melde dich mit Battle.net an.\n"
+    }
+  }
+}

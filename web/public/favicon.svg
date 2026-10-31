@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Raidex">
+  <title>Raidex — Favicon (Overclock)</title>
+  <rect width="512" height="512" rx="114" fill="#141D38"/>
+  <rect x="1" y="1" width="510" height="510" rx="113" fill="none" stroke="#2D3A64" stroke-width="2"/>
+  <g transform="translate(106 106) scale(12.5)">
+    <!-- Umriss-Raute als gefüllter Ring (cyan-Raute minus dunkle Innen-Raute) — Renderer-robust -->
+    <path d="M12 2 L21 12 L12 22 L3 12 Z" fill="#22E6FF"/>
+    <path d="M12 4.8 L18.48 12 L12 19.2 L5.52 12 Z" fill="#141D38"/>
+    <!-- gefüllte Innen-Raute (magenta) -->
+    <path d="M12 7 L17 12 L12 17 L7 12 Z" fill="#FF2D78"/>
+  </g>
+</svg>

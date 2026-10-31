@@ -1,0 +1,60 @@
+{
+  "push": {
+    "test": { "title": "Raidex test", "body": "Push works 🎉" },
+    "raidCancelled": { "title": "Raid cancelled", "body": "“{{title}}” was cancelled." },
+    "newUser": { "title": "New Raidex user 🎉", "body": "{{battletag}} signed in with Battle.net." }
+  },
+  "dashboard": {
+    "token": "WoW Token",
+    "gold": "{{amount}} gold",
+    "weeklyEvent": "Weekly event: {{title}}"
+  },
+  "event": {
+    "timewalking": { "title": "Timewalking", "body": "Bonus loot from Timewalking dungeons of an earlier expansion." },
+    "battleground": { "title": "Battleground bonus", "body": "More honor and loot in battlegrounds." },
+    "petBattle": { "title": "Pet battle bonus", "body": "Bonus experience for your battle pets." },
+    "worldQuest": { "title": "World quest bonus", "body": "Double rewards from world quests." },
+    "arena": { "title": "Arena skirmish bonus", "body": "Bonus honor in arena skirmishes." },
+    "mythicDungeon": { "title": "Mythic dungeon bonus", "body": "Bonus loot in Mythic dungeons." }
+  },
+  "card": {
+    "diff": { "mythic": "Mythic", "heroic": "Heroic", "normal": "Normal", "lfr": "LFR", "mplus": "Mythic+" },
+    "role": { "tank": "Tank", "healer": "Healer", "dps": "DPS" },
+    "weekdays": "Mon,Tue,Wed,Thu,Fri,Sat,Sun",
+    "dateFormat": "j M",
+    "time": "{{time}}",
+    "when": "{{weekday}} {{date}} · {{time}}",
+    "summary": "Tank {{tank}} · Healer {{healer}} · DPS {{dps}}",
+    "loading": "Loading raid …",
+    "toCalendar": "Open calendar",
+    "notFound": "Raid not found",
+    "gone": "This raid no longer exists."
+  },
+  "discord": {
+    "date": "{{weekday}} {{date}}",
+    "lineup": "Line-up",
+    "signedUp": "{{count}} signed up",
+    "signedUpOf": "{{have}} / {{min}} signed up",
+    "autoUpdate": "updates automatically",
+    "cancelled": "{{name}} — cancelled",
+    "testTitle": "Raidex connected",
+    "testBody": "Changes to raid sign-ups will be posted here."
+  },
+  "demo": {
+    "race": { "2": "Orc", "4": "Night Elf", "22": "Worgen" },
+    "instance": "Manaforge Omega",
+    "mythicTitle": "{{instance}} – Mythic",
+    "mythicBody": "Progress on boss 5. Be on time, bring flasks & food!",
+    "heroicTitle": "{{instance}} – Heroic (alt run)",
+    "heroicBody": "Relaxed run for alts and newcomers.",
+    "mplusTitle": "Mythic+ night",
+    "mplusInstance": "Dungeons",
+    "mplusBody": "Pushing keys in groups. Sign up with your role."
+  },
+  "mail": {
+    "verify": {
+      "subject": "{{product}} – confirm your e-mail",
+      "body": "Welcome to {{product}}!\n\nConfirm your e-mail address:\n{{link}}\n\nThis is a demo account. For your WoW data, sign in with Battle.net.\n"
+    }
+  }
+}

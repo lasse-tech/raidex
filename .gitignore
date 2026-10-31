@@ -1,0 +1,24 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+.DS_Store
+api/config.php
+api/.cache/
+api/config.local.php
+
+# Apple / signing secrets
+secrets/
+
+mobile/android/keystore.properties
+webpush-build/
+mobile/ios/Pods/
+mobile/ios/build/
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/build/
+mobile/.expo/
+
+# Vite Dev-Build (Artefakt)
+web/dist-dev/

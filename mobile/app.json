@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Raidex",
+    "slug": "raidex",
+    "scheme": "raidex",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#141D38",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#101730"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "de.iguild.raidex",
+      "entitlements": {
+        "aps-environment": "development"
+      }
+    },
+    "android": {
+      "package": "de.iguild.raidex",
+      "adaptiveIcon": {
+        "backgroundColor": "#101730",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-web-browser",
+      "expo-secure-store",
+      "@react-native-community/datetimepicker",
+      "expo-font",
+      "expo-notifications"
+    ]
+  }
+}
