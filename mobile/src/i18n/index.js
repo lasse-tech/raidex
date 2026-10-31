@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // UI language: English first, German second, picked from the device locale
 // (Intl, Hermes); anything else falls back to English. Dictionaries are
 // i18next-style JSON (nested keys, {{name}} placeholders, _one/_other plurals);

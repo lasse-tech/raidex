@@ -1,6 +1,6 @@
 #!/bin/sh
 # SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 # Fails on names an ad blocker eats.
 #
 # Ad blockers match on the request path and on class names, not on who is being

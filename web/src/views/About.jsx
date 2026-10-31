@@ -1,11 +1,10 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { t } from '../i18n/index.js';
 
-// About: version, copyright, licence with the source link AGPL section 13 asks
-// for, credits, trademark notice, and the "Made with <3 in Europe" chip.
+// About: version, copyright, licence with the source link, credits, trademark notice, and the "Made with <3 in Europe" chip.
 const SOURCE_URL = 'https://github.com/lasse-tech/raidex';
-const LICENSE_URL = 'https://www.gnu.org/licenses/agpl-3.0.html';
+const LICENSE_URL = 'https://opensource.org/license/mit';
 
 const CREDITS = [
   [t('about.fonts'), 'Oxanium, Chakra Petch, JetBrains Mono (Fontsource) · SIL Open Font License 1.1'],
@@ -23,7 +22,7 @@ export default function About() {
         <p><span className="pill">{t('about.version', { v: __APP_VERSION__ })}</span></p>
         <p>
           © 2026 lasse tech, Lars Gossard · <a href="mailto:lars@lasse-tech.de">lars@lasse-tech.de</a><br />
-          {t('about.license')}: <a href={LICENSE_URL} target="_blank" rel="noopener noreferrer">AGPL-3.0-or-later</a> ·{' '}
+          {t('about.license')}: <a href={LICENSE_URL} target="_blank" rel="noopener noreferrer">MIT</a> ·{' '}
           <a href={SOURCE_URL} target="_blank" rel="noopener noreferrer">{t('about.source')}</a>
         </p>
 

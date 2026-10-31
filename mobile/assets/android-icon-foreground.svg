@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="-12.7 -12.7 49.4 49.4">
   <!-- SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard -->
-  <!-- SPDX-License-Identifier: AGPL-3.0-or-later -->
+  <!-- SPDX-License-Identifier: MIT -->
   <!-- Android adaptive icon foreground: web/public/logomark.svg on transparent, glow as in web/public/appicon.svg; mark inside the 66/108 safe zone -->
   <defs>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">

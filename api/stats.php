@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Cross-guild figures for outside displays, and the tokens that unlock them.
 //
 // GET /stats is the only route here that needs no session. It is opened by a

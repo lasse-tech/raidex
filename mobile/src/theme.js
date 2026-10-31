@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Raidex "Overclock" theme — dark gamer / neon on an indigo canvas.
 // Dark-only by design (the neon aesthetic doesn't translate to a light mode).
 

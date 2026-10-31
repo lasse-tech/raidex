@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Discord-Benachrichtigung via Webhook: EINE Live-Nachricht pro Raid, die bei jeder
 // Anmelde-/Raid-Änderung editiert wird (kein Spam). Reiner curl-POST/PATCH — kein
 // Bot/Gateway. Fehler dürfen die Anmeldung nie brechen (alles in try/catch, best effort).

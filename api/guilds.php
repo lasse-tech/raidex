@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Guild provisioning + membership/admin — all derived from Blizzard data.
 //   • active guild  = the active character's guild (auto-provisioned)
 //   • member        = has a character in that guild (implicit)

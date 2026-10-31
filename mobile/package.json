@@ -1,6 +1,7 @@
 {
   "name": "mobile",
   "version": "1.0.0",
+  "license": "MIT",
   "main": "index.js",
   "dependencies": {
     "@expo-google-fonts/chakra-petch": "^0.4.1",

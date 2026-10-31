@@ -1,8 +1,8 @@
 # SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 #
 # Raidex: build and checks. Raidex runs as one hosted service (raidex.app);
-# this source is published under the AGPL, not as a self-hosting kit.
+# this source is published under MIT, not as a self-hosting kit.
 
 # The targets every Makefile of ours documents; make lint checks it.
 REQUIRED_TARGETS := clean distclean debug install uninstall deploy lint

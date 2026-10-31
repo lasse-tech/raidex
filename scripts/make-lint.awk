@@ -1,5 +1,5 @@
 # SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: MIT
 #
 # make-lint.awk: checks the comments `make help` lists (part of `make lint`).
 #   awk -v required="clean lint …" -f scripts/make-lint.awk Makefile

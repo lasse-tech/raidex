@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Backfill / nightly guild scan.
 //
 // The web app only ever scans a guild while somebody is looking at it: /me

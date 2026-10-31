@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // i18n-check: every dictionary pair (en.json, de.json) has the same keys, no
 // empty values and the same {{placeholders}} per key.
 // Usage: node scripts/i18n-check.mjs <dir with en.json and de.json>...

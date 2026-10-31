@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useMe } from '../lib/store.jsx';

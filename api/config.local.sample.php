@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // ─────────────────────────────────────────────────────────────────────────────
 //  ENVIRONMENT OVERRIDE  —  copy this file to  config.local.php  and fill it in.
 //  It overrides values from config.php and is never committed to git.

@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Blizzard / Battle.net Game Data + Profile API client (curl), with a file
 // cache and offline demo fallbacks. Real guild + character data works via
 // client-credentials even before user OAuth is enabled.

@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Raid guides. Standard links (Wowhead DE+EN, method.gg, buffed.de) are generated
 // globally per raid instance; guilds can add their own (instance-wide or pinned to
 // a single calendar entry). GM/raidleads and appointed Quartiermeister may manage

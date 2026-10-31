@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { ScrollView, View, Text } from 'react-native';
 import { useTheme } from '../theme.js';
 import { SectionTitle, BottomSheet } from '../ui.js';

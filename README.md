@@ -29,7 +29,7 @@ Requirements: Node.js 20 or later with npm, PHP 8.4 (for `make lint`).
 ## Hosting
 
 Raidex is one hosted service, <https://raidex.app>. The source is published
-because the AGPL asks for it; it is not a self-hosting kit, and there are no
+as open source under MIT; it is not a self-hosting kit, and there are no
 install or update guides for running your own server. `make deploy` deploys
 nothing.
 
@@ -45,8 +45,7 @@ credentials, admin BattleTags). Neither file belongs in git.
 
 ## Licence
 
-`AGPL-3.0-or-later`, see [`LICENSE`](LICENSE). Running a modified Raidex as a
-network service obliges you to offer its source to its users (AGPL section 13).
+`MIT`, see [`LICENSE`](LICENSE).
 
 Third-party parts, each under its own licence:
 

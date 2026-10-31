@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { t } from '../i18n/index.js';
 // Privacy policy, written against what the app actually does. Two things are
 // easy to get wrong here and were verified against the code rather than

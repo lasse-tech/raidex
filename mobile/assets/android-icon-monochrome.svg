@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="-12.7 -12.7 49.4 49.4">
   <!-- SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard -->
-  <!-- SPDX-License-Identifier: AGPL-3.0-or-later -->
+  <!-- SPDX-License-Identifier: MIT -->
   <!-- Android themed icon: web/public/logomark.svg in one colour, scaled like android-icon-foreground.png -->
   <path d="M12 2 L21 12 L12 22 L3 12 Z" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round"/>
   <path d="M12 7 L17 12 L12 17 L7 12 Z" fill="#FFFFFF"/>

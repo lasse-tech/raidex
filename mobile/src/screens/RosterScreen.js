@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { useEffect, useState, useCallback, useMemo, useRef } from 'react';
 import { View, Text, FlatList, TextInput, RefreshControl, Pressable, ScrollView, Image } from 'react-native';
 import { useTheme, classColor, className, formatNumber, mplusColor, factionColor } from '../theme.js';

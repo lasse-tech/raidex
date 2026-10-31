@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Server-generated text in English and German: api/i18n/<lang>.json, same
 // shape as the clients' dictionaries (scripts/i18n-check.mjs keeps them in
 // step). A request is answered in its Accept-Language, a push in the language

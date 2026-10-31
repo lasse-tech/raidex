@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { Linking } from 'react-native';
 
 // All external links (guides, Raider.io, …) open in the OS browser. The app itself

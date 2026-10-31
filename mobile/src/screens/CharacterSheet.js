@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { useEffect, useState } from 'react';
 import { ScrollView, View, Text, Image, Pressable, ActivityIndicator } from 'react-native';
 import { openLink } from '../openLink.js';

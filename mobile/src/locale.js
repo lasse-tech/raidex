@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Date/time locale, mirroring web/src/lib/locale.js.
 //
 // The value is a per-user preference from /me rather than a device lookup: a

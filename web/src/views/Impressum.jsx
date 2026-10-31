@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { t } from '../i18n/index.js';
 // Legal notice. The German statutes were renamed: the TMG was replaced by the
 // DDG in 2024, and § 55 RStV by § 18 MStV in 2020 — the citations below follow

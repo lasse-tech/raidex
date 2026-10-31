@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { View, Text, ActivityIndicator, Image, Pressable, Modal } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useTheme } from './theme.js';

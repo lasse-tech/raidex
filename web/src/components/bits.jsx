@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { ROLES, roleIconUrl } from '../lib/wow.js';
 
 // Real WoW role icon; a block element so it centres vertically in flex rows.

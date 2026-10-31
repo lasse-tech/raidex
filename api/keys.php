@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Raidex Keys - the desktop companion (lasse-tech/raidex-keys): connecting it to
 // an account, the MDT routes and the keystones it stores here.
 

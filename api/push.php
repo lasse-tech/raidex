@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Keys and libraries outside the web root: shared_dir in config.php (required;
 // without it push stays off and the error log says why).
 function shared_dir(): string {

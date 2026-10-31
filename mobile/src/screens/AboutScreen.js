@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 
 // About: version, copyright, licence with the source link, credits, trademark
 // notice, and the "Made with <3 in Europe" chip.
@@ -11,7 +11,7 @@ import { openLink } from '../openLink.js';
 import { t as tr } from '../i18n/index.js';
 
 const SOURCE_URL = 'https://github.com/lasse-tech/raidex';
-const LICENSE_URL = 'https://www.gnu.org/licenses/agpl-3.0.html';
+const LICENSE_URL = 'https://opensource.org/license/mit';
 
 const CREDITS = [
   [tr('about.fonts'), 'Oxanium, Chakra Petch, JetBrains Mono, Orbitron · SIL Open Font License 1.1'],
@@ -33,7 +33,7 @@ export default function AboutModal({ onClose }) {
         <Text style={dim}>© 2026 lasse tech, Lars Gossard</Text>
         <Pressable onPress={() => openLink('mailto:lars@lasse-tech.de')}><Text style={link}>lars@lasse-tech.de</Text></Pressable>
         <View style={{ flexDirection: 'row', gap: 14, marginBottom: 18 }}>
-          <Pressable onPress={() => openLink(LICENSE_URL)}><Text style={link}>AGPL-3.0-or-later</Text></Pressable>
+          <Pressable onPress={() => openLink(LICENSE_URL)}><Text style={link}>MIT</Text></Pressable>
           <Pressable onPress={() => openLink(SOURCE_URL)}><Text style={link}>{tr('about.source')}</Text></Pressable>
         </View>
 

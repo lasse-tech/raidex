@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Front controller / router for the Raidex API (multi-tenant, PostgreSQL).
 @set_time_limit(120);
 @ini_set('memory_limit', '256M');

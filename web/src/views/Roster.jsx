@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { useEffect, useMemo, useState, useRef } from 'react';
 import { api } from '../lib/api.js';
 import { classColor, CLASS_NAMES, formatNumber, mplusColor } from '../lib/wow.js';

@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { useEffect, useState, useCallback } from 'react';
 import { ScrollView, View, Text, RefreshControl } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';

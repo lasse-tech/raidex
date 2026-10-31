@@ -1,5 +1,5 @@
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 import { useEffect, useState } from 'react';
 import { api } from '../lib/api.js';
 import { classColorByName, formatNumber, mplusTier, mplusColor, CLASS_NAMES, raiderIoUrl, wowProfileUrl, factionLabel } from '../lib/wow.js';

@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // PDO connection to PostgreSQL + the schema. All tables use the mm_ prefix.
 // v2 — multi-tenant: guilds are first-class; raids/widgets are scoped per guild.
 // Membership and admin (raidlead) are derived live from the Blizzard roster.

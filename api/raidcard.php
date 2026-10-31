@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Öffentliche Raid-Share-Vorschau: OG-HTML + serverseitig gezeichnetes Vorschaubild.
 // Discord/Slack/WhatsApp lesen nur Open-Graph-Tags (kein JS) und zeigen als Bild ein
 // echtes Rasterbild an — dieses wird hier mit GD als "Raidkasten" gezeichnet, bewusst

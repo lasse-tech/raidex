@@ -1,6 +1,6 @@
 <?php
 // SPDX-FileCopyrightText: 2026 lasse tech, Lars Gossard
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT
 // Copy to config.php on the server and fill in real values. config.php is
 // gitignored and must NOT be committed (contains DB + Battle.net secrets).
 return [

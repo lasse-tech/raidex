@@ -1,9 +1,9 @@
 {
   "name": "raidex-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "author": "lasse tech, Lars Gossard <lars@lasse-tech.de>",
-  "license": "AGPL-3.0-or-later",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
